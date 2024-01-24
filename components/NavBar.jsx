@@ -48,8 +48,8 @@ const NavBar = () => {
                     </PageLink>
                   </NavItem>
                   <NavItem>
-                    <PageLink href="/external" className="nav-link" testId="navbar-external">
-                      External API
+                    <PageLink href="/consulter" className="nav-link" testId="navbar-external">
+                      Consulter les interventions
                     </PageLink>
                   </NavItem>
                 </>
